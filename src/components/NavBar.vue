@@ -3,7 +3,7 @@
 
 </script>
 <template>
-  <nav class="px-[200px] py-[10px] flex items-center justify-between">
+  <nav class="pl-[100px] pr-[150px] py-[10px] flex items-center justify-between relative z-[1]">
     <!-- Logo -->
     <img class="w-40 h-9" src="../assets/logo/GoAdventure лого горизонтальный цветной.png" alt="" />
 
