@@ -3,6 +3,7 @@ import NavBar from './components/NavBar.vue'
 import Hero from './components/Hero.vue'
 import Why from './components/Why.vue'
 import Blog from './components/Blog.vue'
+import About from './components/About.vue'
 </script>
 
 <template class="w-full h-vh">
@@ -11,6 +12,7 @@ import Blog from './components/Blog.vue'
     <Hero/>
     <Why/>
     <Blog/>
+    <About/>
   </div>
 </template>
 
